@@ -1,0 +1,4 @@
+Project Brandblusrobot
+
+Dit project is een proof of concept over de mogelijkheid om een brand te blussen met behulp van een draadloos bestuurbare robot, die is uitgerust met brandbestrijdingsapparatuur. 
+Daarnaast zal de robot sensoren hebben die gegevens uit de omgeving van de robot naar een smartphone app kunnen doorsturen.
